@@ -1,0 +1,231 @@
+{
+  "users": [
+    {
+      "id": "1751708691301",
+      "username": "1",
+      "transactions": [
+        {
+          "id": "1751708904450",
+          "type": "expense",
+          "amount": 1,
+          "category": "a",
+          "description": "aa",
+          "date": "2025-07-05"
+        },
+        {
+          "id": "1751708921305",
+          "type": "income",
+          "amount": 1,
+          "category": "h",
+          "description": "aa",
+          "date": "2025-07-04"
+        },
+        {
+          "id": "1751709088445",
+          "type": "income",
+          "amount": 1,
+          "category": "v",
+          "description": "11",
+          "date": "2025-07-08"
+        },
+        {
+          "id": "1751709112477",
+          "type": "expense",
+          "amount": 2,
+          "category": "a",
+          "description": "11",
+          "date": "2025-07-03"
+        },
+        {
+          "id": "1751708921305",
+          "type": "income",
+          "amount": 1,
+          "category": "h",
+          "description": "aa",
+          "date": "2025-07-04"
+        },
+        {
+          "id": "1751708921305",
+          "type": "income",
+          "amount": 1,
+          "category": "h",
+          "description": "aa",
+          "date": "2025-07-04"
+        },
+        {
+          "id": "1751708921305",
+          "type": "income",
+          "amount": 1,
+          "category": "h",
+          "description": "aa",
+          "date": "2025-07-04"
+        },
+        {
+          "id": "1751708921305",
+          "type": "income",
+          "amount": 1,
+          "category": "h",
+          "description": "aa",
+          "date": "2025-07-04"
+        },
+        {
+          "id": "1751708921305",
+          "type": "income",
+          "amount": 1,
+          "category": "h",
+          "description": "aa",
+          "date": "2025-07-04"
+        },
+        {
+          "id": "1751708921305",
+          "type": "income",
+          "amount": 1,
+          "category": "h",
+          "description": "aa",
+          "date": "2025-07-04"
+        },
+        {
+          "id": "1751708921305",
+          "type": "income",
+          "amount": 1,
+          "category": "h",
+          "description": "aa",
+          "date": "2025-07-04"
+        },
+        {
+          "id": "1751708921305",
+          "type": "income",
+          "amount": 1,
+          "category": "h",
+          "description": "aa",
+          "date": "2025-07-04"
+        },
+        {
+          "id": "1751708921305",
+          "type": "income",
+          "amount": 1,
+          "category": "h",
+          "description": "aa",
+          "date": "2025-07-04"
+        },
+        {
+          "id": "1751708921305",
+          "type": "income",
+          "amount": 1,
+          "category": "h",
+          "description": "aa",
+          "date": "2025-07-04"
+        },
+        {
+          "id": "1751708921305",
+          "type": "income",
+          "amount": 1,
+          "category": "h",
+          "description": "aa",
+          "date": "2025-07-04"
+        },
+        {
+          "id": "1751708921305",
+          "type": "income",
+          "amount": 1,
+          "category": "h",
+          "description": "aa",
+          "date": "2025-07-04"
+        },
+        {
+          "id": "1751708921305",
+          "type": "income",
+          "amount": 1,
+          "category": "h",
+          "description": "aa",
+          "date": "2025-07-04"
+        },
+        {
+          "id": "1751708921305",
+          "type": "income",
+          "amount": 1,
+          "category": "h",
+          "description": "aa",
+          "date": "2025-07-04"
+        },
+        {
+          "id": "1751708921305",
+          "type": "income",
+          "amount": 1,
+          "category": "h",
+          "description": "aa",
+          "date": "2025-07-04"
+        },
+        {
+          "id": "1751708921305",
+          "type": "income",
+          "amount": 1,
+          "category": "h",
+          "description": "aa",
+          "date": "2025-07-04"
+        },
+        {
+          "id": "1751708921305",
+          "type": "income",
+          "amount": 1,
+          "category": "h",
+          "description": "aa",
+          "date": "2025-07-04"
+        },
+        {
+          "id": "1751708921305",
+          "type": "income",
+          "amount": 1,
+          "category": "h",
+          "description": "aa",
+          "date": "2025-07-04"
+        }
+      ]
+    },
+    {
+      "id": "1751709146998",
+      "username": "2",
+      "transactions": []
+    },
+    {
+      "id": "1751709624823",
+      "username": "3",
+      "transactions": []
+    },
+    {
+      "id": "1751709633448",
+      "username": "4",
+      "transactions": []
+    },
+    {
+      "id": "1751711050614",
+      "username": "7",
+      "transactions": []
+    },
+    {
+      "id": "1751711227029",
+      "username": "62",
+      "transactions": []
+    },
+    {
+      "id": "1751711245353",
+      "username": "a",
+      "transactions": []
+    },
+    {
+      "id": "1751711398983",
+      "username": "ы",
+      "transactions": []
+    },
+    {
+      "id": "1751711413031",
+      "username": "ф",
+      "transactions": []
+    },
+    {
+      "id": "1751711561977",
+      "username": "я",
+      "transactions": []
+    }
+  ]
+}
